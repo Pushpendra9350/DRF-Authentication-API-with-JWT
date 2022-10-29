@@ -1,5 +1,13 @@
 ### Complete Authentication API with JWT with Django Rest Framework
 
+#### Features
+- Custome User Model
+- User Registration API
+- User Authentication/Login API
+- Get User Profile API
+- Send Password Reset Email API
+- Change Password API
+
 #### Intall all required packages
 ```git
 pip install django
