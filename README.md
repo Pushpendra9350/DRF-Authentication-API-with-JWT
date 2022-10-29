@@ -1,7 +1,7 @@
 ### Complete Authentication API with JWT with Django Rest Framework
 
 #### Features
-- Custome User Model
+- Custom User Model
 - User Registration API
 - User Authentication/Login API
 - Get User Profile API
